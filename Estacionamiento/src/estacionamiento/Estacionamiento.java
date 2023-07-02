@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package estacionamiento;
 
-/**
- *
- * @author anthony
- */
 import java.sql.ResultSet;
 import java.util.Scanner;
 import javax.swing.JFrame;
@@ -27,8 +18,8 @@ public class Estacionamiento {
 
         v1.setVisible(true);// hacemos visible la ventana*/
         JFrame frame = new JFrame("Estacionamiento");
-        //NewUsuario newUsuario = new NewUsuario();
-        //frame.add(newUsuario);
+        NewUsuario newUsuario = new NewUsuario();
+        frame.add(newUsuario);
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
