@@ -5,10 +5,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import javax.swing.JFrame;
 
-/**
- *
- * @author anthony
- */
 public class registro extends JFrameRegistro {
 
     private int id_registro;
