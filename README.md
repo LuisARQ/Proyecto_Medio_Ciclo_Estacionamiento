@@ -1,2 +1,0 @@
-# Proyecto_Medio_Ciclo_Estacionamiento
-Trabajo_de_Programacion_Avanzada
